@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "A lonely Mask",
+      "body": "How could I be so lostIn a place I know so well?How could I be so brokenIn a family so together? How could I be so lonely Surrounded by so many? How could I be so unhappy Surrounded by so much beauty? How could I be me When even I remain a mystery? She smiles, I cry. She is outgoing, I am shy. She loves, I am alone. She is amazing, I am unknown. She is beautiful, I am a mess. She is happy, I am depressed. My mask is perfect: She hides me.",
+      "author": "Megumi ",
+      "id": 1
+    },
+    {
+      "title": "What is it that hurt?",
+      "body": "Hurt and pain. There's much to gain. Peace and love. It's all the same. Confusion and doubt. We're not without. We weep, we cry. We plead, we try. We laugh, we smile. We talk a lot about broken hearts. But oh, what about the aching ones? The hearts that are healing but can’t escape the visits of the cold, sharp pain gripping their core. The hearts that appear whole again but still experience the waves of hurt crash against their soul’s door.",
+      "author": "Mitsuri ",
+      "id": 2
+    },
+    {
+      "title": "The story Hugh Janus",
+      "body": "yes this is just useless",
+      "author": "Mitsuri",
+      "id": 3
+    },
+    {
+      "title": "Everybody was killed by Lou Sassle",
+      "body": "yea you definitely didn't get that",
+      "author": "Mitsuri",
+      "id": 4
+    }
+  ]
+}
