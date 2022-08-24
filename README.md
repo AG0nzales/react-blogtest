@@ -1,4 +1,4 @@
-# A Simple Blog web application made from React 
-> tried using json server seems like there are bugs
+# A React Web Blog
+> tried something with react (fail)
 
 ## https://ag0nzales.github.io/react-simpleblog/
